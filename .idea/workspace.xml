@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41d4c9e6-90a6-4692-af63-9a57507c73a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-gateway/src/main/java/com/szxxwang/springgateway/SpringGatewayApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\repository" />
+        <option name="mavenHome" value="E:/Program Files (x86)/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\Program Files (x86)\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RzWbb7LwSA3j55Trrc73o49wVu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.szxxwang.serviceconsumer.hystrix" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.szxxwang.springcloud.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\code\idea\springboot\springcloud\service-consumer\src\main\java\com\szxxwang\serviceconsumer" />
+      <recent name="F:\java\code\idea\springboot\springcloud\employee-service\src\main\resources" />
+      <recent name="F:\java\code\idea\springboot\springcloud\employee-service\src\main\java\com\szxxwang\employeeservice" />
+      <recent name="F:\java\code\idea\springboot\springcloud\src\main\java\com\szxxwang\springcloud" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringGatewayApplication">
+    <configuration name="EmployeeServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.szxxwang.employeeservice.EmployeeServiceApplication" />
+      <module name="employee-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szxxwang.employeeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.szxxwang.springcloud.SpringcloudApplication" />
+      <module name="springcloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szxxwang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceApplicationTests.testRestTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szxxwang.employeeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.szxxwang.employeeservice" />
+      <option name="MAIN_CLASS_NAME" value="com.szxxwang.employeeservice.EmployeeServiceApplicationTests" />
+      <option name="METHOD_NAME" value="testRestTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudApplicationTests.testRestTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szxxwang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.szxxwang.springcloud" />
+      <option name="MAIN_CLASS_NAME" value="com.szxxwang.springcloud.SpringcloudApplicationTests" />
+      <option name="METHOD_NAME" value="testRestTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceApplication9090" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="employee-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szxxwang.employeeservice.EmployeeServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dport=9090" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceApplication9091" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="employee-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szxxwang.employeeservice.EmployeeServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dport=9091" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szxxwang.eurekaserver.EurekaServerApplication" />
+      <option name="VM_PARAMETERS" value="-DdefaultZone=http://127.0.0.1:10087/eureka" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication10087" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szxxwang.eurekaserver.EurekaServerApplication" />
+      <option name="VM_PARAMETERS" value="-Dport=10087 -DdefaultZone=http://127.0.0.1:10086/eureka" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szxxwang.serviceconsumer.ServiceConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szxxwang.springgateway.SpringGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szxxwang.springcloud.SpringcloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EmployeeServiceApplication" />
+      <item itemvalue="Application.SpringcloudApplication" />
+      <item itemvalue="JUnit.EmployeeServiceApplicationTests.testRestTemplate" />
+      <item itemvalue="JUnit.SpringcloudApplicationTests.testRestTemplate" />
+      <item itemvalue="Spring Boot.EmployeeServiceApplication9090" />
+      <item itemvalue="Spring Boot.EmployeeServiceApplication9091" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication10087" />
+      <item itemvalue="Spring Boot.ServiceConsumerApplication" />
+      <item itemvalue="Spring Boot.SpringcloudApplication" />
+      <item itemvalue="Spring Boot.SpringGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeServiceApplication" />
+        <item itemvalue="Application.SpringcloudApplication" />
+        <item itemvalue="JUnit.SpringcloudApplicationTests.testRestTemplate" />
+        <item itemvalue="JUnit.EmployeeServiceApplicationTests.testRestTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41d4c9e6-90a6-4692-af63-9a57507c73a4" name="Default Changelist" comment="" />
+      <created>1688253461418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688253461418</updated>
+      <workItem from="1688253464305" duration="35000000" />
+      <workItem from="1688305383408" duration="5147000" />
+      <workItem from="1688389188542" duration="3412000" />
+      <workItem from="1688426494573" duration="18142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="234" width="1089" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1688310269813">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="702" y="234" width="1089" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1688310269813" />
+    <state x="830" y="286" key="#com.intellij.ide.util.MemberChooser" timestamp="1688444461544">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="830" y="286" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1688444461544" />
+    <state x="534" y="502" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1688279524778">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="534" y="502" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1688279524778" />
+    <state x="577" y="172" key="CommitChangelistDialog2" timestamp="1688462535343">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="577" y="172" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1688462535343" />
+    <state x="474" y="271" key="FileChooserDialogImpl" timestamp="1688462147589">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="474" y="271" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1688462147589" />
+    <state x="887" y="470" width="273" height="273" key="Github.ShareDialog" timestamp="1688462440510">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="887" y="470" width="273" height="273" key="Github.ShareDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1688462440510" />
+    <state x="719" y="283" key="Github.UntrackedFilesDialog" timestamp="1688462458028">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="719" y="283" key="Github.UntrackedFilesDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1688462458028" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1688461995173">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1688461995173" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1688461995173">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1688461995173" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1688461995173">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1688461995173" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1688461995173">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1688461995173" />
+    <state width="2005" height="305" key="GridCell.Tab.1.bottom" timestamp="1688461995173">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.1.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1688461995173" />
+    <state width="2005" height="305" key="GridCell.Tab.1.center" timestamp="1688461995173">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.1.center/0.0.2048.1152@0.0.2048.1152" timestamp="1688461995173" />
+    <state width="2005" height="305" key="GridCell.Tab.1.left" timestamp="1688461995173">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.1.left/0.0.2048.1152@0.0.2048.1152" timestamp="1688461995173" />
+    <state width="2005" height="305" key="GridCell.Tab.1.right" timestamp="1688461995173">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.1.right/0.0.2048.1152@0.0.2048.1152" timestamp="1688461995173" />
+    <state x="526" y="219" key="SettingsEditor" timestamp="1688462413876">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="526" y="219" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1688462413876" />
+    <state x="434" y="278" key="new project wizard" timestamp="1688448459238">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="434" y="278" key="new project wizard/0.0.2048.1152@0.0.2048.1152" timestamp="1688448459238" />
+    <state x="687" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1688310252373">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="687" y="253" width="672" height="678" key="search.everywhere.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1688310252373" />
+  </component>
+</project>

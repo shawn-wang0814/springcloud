@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "jdbc",
+      "type": "com.szxxwang.springcloud.mysqlConfig.MysqlProperties",
+      "sourceType": "com.szxxwang.springcloud.mysqlConfig.MysqlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jdbc.driver-class",
+      "type": "java.lang.String",
+      "sourceType": "com.szxxwang.springcloud.mysqlConfig.MysqlProperties"
+    },
+    {
+      "name": "jdbc.password",
+      "type": "java.lang.String",
+      "sourceType": "com.szxxwang.springcloud.mysqlConfig.MysqlProperties"
+    },
+    {
+      "name": "jdbc.url",
+      "type": "java.lang.String",
+      "sourceType": "com.szxxwang.springcloud.mysqlConfig.MysqlProperties"
+    },
+    {
+      "name": "jdbc.username",
+      "type": "java.lang.String",
+      "sourceType": "com.szxxwang.springcloud.mysqlConfig.MysqlProperties"
+    }
+  ],
+  "hints": []
+}
